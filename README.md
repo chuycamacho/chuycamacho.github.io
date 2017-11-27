@@ -1,6 +1,6 @@
 ## Projects 
 
-Some js games made for fun:
+Some javascript/HTML5-canvas games made for fun:
 
 [js-games](https://chuycamacho.github.io/js-games)
 
